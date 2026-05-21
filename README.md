@@ -38,8 +38,7 @@ utils/ → Helper classes
 ## ⚙️ Setup Instructions
 
 ### Clone the Repository
-
-git clone [https://github.com/malikarshid01430-byte/GramaAngana.git](https://github.com/malikarshid01430-byte/GramaAngana.git)
+git clone https://github.com/ganeshchildi/GramaAngana-main.git
 
 ---
 
@@ -120,7 +119,7 @@ This project is intended for educational and development purposes
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Ganesh B N
 
 ---
 
